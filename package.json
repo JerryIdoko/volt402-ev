@@ -1,0 +1,10 @@
+{
+  "name": "volt402-ev-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n \"GATEWAY,DASHBOARD\" -c \"yellow,cyan\" \"npm --prefix gateway run dev\" \"npm --prefix dashboard run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
