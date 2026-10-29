@@ -347,3 +347,4 @@ This guarantees mathematical proof of settlement before the high-voltage EV cont
 ## 📄 License
 
 MIT License. Designed & Built for open-source Lightning Network & EV infrastructure innovation.
+
